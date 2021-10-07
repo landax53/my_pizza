@@ -1,0 +1,59 @@
+[33mcommit 33e9ab91b61ac3ffff1dd6e9b51fe9cb8ec25963[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/new_pizza[m[33m, [m[1;32mnew_pizza[m[33m)[m
+Author: Landax <vincentlandais@aol.fr>
+Date:   Thu Oct 7 14:08:59 2021 +0200
+
+    New pizza
+
+[33mcommit a62a744febf9ed1f81bd45518ff99f365af002ce[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Pantomik <addr@domain.ext>
+Date:   Tue May 18 21:34:13 2021 +0200
+
+    Remove one useless test and prepare for bad commit
+
+[33mcommit a7512cc0327882f02b62dd910ed15a2d1f760eb2[m
+Author: Pantomik <addr@domain.ext>
+Date:   Tue May 18 10:22:51 2021 +0200
+
+    Test pizza & Bug correction
+
+[33mcommit af8b4975d789f4f4fc331352b46668d145de051a[m
+Author: Pantomik <addr@domain.ext>
+Date:   Fri May 14 17:00:16 2021 +0200
+
+    Tests for the buy feature
+
+[33mcommit a42d4e6ece8fccb4d7323a661a2020129138830d[m
+Author: Pantomik <addr@domain.ext>
+Date:   Fri May 14 16:22:36 2021 +0200
+
+    README update
+
+[33mcommit ea52ed01c4c731b42d8d6dd488bc3159e3e190d3[m
+Author: Pantomik <addr@domain.ext>
+Date:   Thu May 13 20:22:45 2021 +0200
+
+    Sauce feature test
+
+[33mcommit c6e5ec8d7822bdbefcb2aa772d0e665056f09a6e[m
+Author: Pantomik <addr@domain.ext>
+Date:   Thu May 13 20:20:59 2021 +0200
+
+    GitHub actions
+
+[33mcommit eb481b5985b6e2e69f57e9afaaca152103099905[m
+Author: Pantomik <addr@domain.ext>
+Date:   Thu May 13 20:19:07 2021 +0200
+
+    Adding tests
+
+[33mcommit 1e28d416dded9e5766c731cbbc91245864e26479[m
+Author: Pantomik <addr@domain.ext>
+Date:   Thu May 13 20:16:29 2021 +0200
+
+    First push: Base pizzeria behavior
+
+[33mcommit 010af2019a427f19db3e5f65d5a1400008ecc216[m
+Author: Pantomik <55341887+Pantomik@users.noreply.github.com>
+Date:   Thu May 13 20:10:20 2021 +0200
+
+    Initial commit
